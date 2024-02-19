@@ -1,5 +1,5 @@
 import React from "react";
-import ReactTyped from "react-typed";
+import { ReactTyped } from "react-typed";
 import img2 from "../assets/p2.png";
 import { NavLink } from "react-router-dom";
 
