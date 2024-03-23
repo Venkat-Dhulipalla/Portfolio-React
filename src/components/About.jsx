@@ -17,47 +17,64 @@ const About = () => {
             <div className="col-md-8 px-2 px-md-0">
               <h1>
                 <img src={img1} alt="" />
-                WELCOME TO MY WORLD
+                Education
                 <img src={img2} alt="" />
               </h1>
-              <p className="px-1 px-md-5">
-                As a young go-getter, I'm aiming to rock the world as a
-                full-stack developer and dive deep into the exciting realms of
-                machine learning, data science.
-              </p>
             </div>
             <div className="col-md-2"></div>
           </div>
           <div className="row gx-0 py-md-4 py-3 px-2 p-md-0">
-            <div className="col-md-4">
-              <div className="about-col1" data-aos="fade-down">
-                <img src={img3} alt="" />
-                <h2>Creativity</h2>
-                <p>
-                  Creative thinker with a penchant for innovation, consistently
-                  delivering imaginative solutions that captivate and inspire.
-                </p>
-              </div>
-            </div>
-            <div className="col-md-4">
+            <div className="col-md-6">
               <div className="about-col1" data-aos="fade-up">
                 <img src={img4} alt="" />
-                <h2>Dedication</h2>
+                <h2>University of North Texas</h2>
+                <p>Master’s of Science in Computer Science</p>
+              </div>
+            </div>
+            <div className="col-md-6">
+              <div className="about-col1" data-aos="fade-down">
+                <img src={img3} alt="" />
+                <h2>Osmania University</h2>
                 <p>
-                  A steadfast commitment to surpassing expectations, driven by
-                  an unwavering work ethic and a relentless pursuit of
-                  excellence in every task undertaken.
+                  Bachelor’s of Engineering in Electronics and Communication
                 </p>
               </div>
             </div>
-            <div className="col-md-4">
+          </div>
+
+          <div className="row text-center gx-0">
+            <div className="col-md-2"></div>
+            <div className="col-md-8 px-2 px-md-0">
+              <h1>
+                <img src={img1} alt="" />
+                Work Experience
+                <img src={img2} alt="" />
+              </h1>
+            </div>
+            <div className="col-md-2"></div>
+          </div>
+
+          <div className="row gx-0 py-md-4 py-3 px-2 p-md-0">
+            <div className="col-md-6">
               <div className="about-col1" data-aos="fade-down">
-                <img src={img5} alt="" />
-                <h2>Hard Work</h2>
+                <img src={img3} alt="" />
+                <h2>Full Stack Engineering Analyst </h2>
+                <h5>Accenture Solutions</h5>
                 <p>
-                  Characterized by resilience and tenacity, persistently
-                  confronting challenges with diligence, perseverance, and a
-                  proactive mindset to achieve desired results.
+                  Skills: Java, Spring Boot, Spring Microservices, ReactJS, AWS,
+                  Apache Kafka, Docker, Github, Kubernetes.
+                </p>
+              </div>
+            </div>
+            <div className="col-md-6">
+              <div className="about-col1" data-aos="fade-up">
+                <img src={img4} alt="" />
+                <h2>Research and Teaching Assistant </h2>
+                <h5>University of North Texas</h5>
+                <p>
+                  Skills: Bash, C++, MultiTheading, BigData, Pyspark,
+                  Teaching/Mentoring, Problem-solving, Leadership, Analytical
+                  skills
                 </p>
               </div>
             </div>

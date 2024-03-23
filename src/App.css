@@ -9,7 +9,7 @@
 * {
   margin: 0;
   /* font-family: "Montserrat", sans-serif; */
-  font-family: "Raleway", sans-serif;
+  font-family: "Newsreader", sans-serif;
   padding: 0;
 }
 body {
@@ -255,6 +255,10 @@ a {
 }
 .about-col1 img {
   padding: 0.8rem 0;
+}
+
+.about-col1 h5 {
+  color: #fff;
 }
 /* ************************************* */
 .about-col1 {
@@ -943,6 +947,7 @@ a {
   .about-col1 {
     padding: 1.5rem;
   }
+
   .about h1,
   .contact h1,
   .testimonial h1,
