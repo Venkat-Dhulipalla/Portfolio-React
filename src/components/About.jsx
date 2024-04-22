@@ -61,7 +61,7 @@ const About = () => {
                 <h2>Full Stack Engineering Analyst </h2>
                 <h5>Accenture Solutions</h5>
                 <p>
-                  Skills: Java, Spring Boot, Spring Microservices, ReactJS, AWS,
+                  Skills: Java, JavaScript , Spring Boot, Spring Microservices, ReactJS, AWS,
                   Apache Kafka, Docker, Github, Kubernetes.
                 </p>
               </div>
@@ -69,12 +69,11 @@ const About = () => {
             <div className="col-md-6">
               <div className="about-col1" data-aos="fade-up">
                 <img src={img4} alt="" />
-                <h2>Research and Teaching Assistant </h2>
-                <h5>University of North Texas</h5>
+                <h2>Associate Software Engineer </h2>
+                <h5>KPCC Services LLP</h5>
                 <p>
-                  Skills: Bash, C++, MultiTheading, BigData, Pyspark,
-                  Teaching/Mentoring, Problem-solving, Leadership, Analytical
-                  skills
+                  Skills: Python, Java , JavaScript , Spring Framework, Node.js, React , Bash
+                  , GitHub, Docker, CI/CD, AWS, MongoDB , MySQL , Jira, Splunk Etc .
                 </p>
               </div>
             </div>

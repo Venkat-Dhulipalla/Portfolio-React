@@ -53,9 +53,9 @@ const Navbar = () => {
                 <NavLink to="/contact"> Contact</NavLink>
               </li>
             </ul>
-            <button type="button" className="nav_btn1" onClick={handleDownload}>
+            {/* <button type="button" className="nav_btn1" onClick={handleDownload}>
               Resume
-            </button>
+            </button> */}
           </div>
         </div>
       </nav>
